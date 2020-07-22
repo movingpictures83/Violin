@@ -1,0 +1,3 @@
+otufile	plugins/Violin/example/soilrep.otu.mod.csv
+mapping	plugins/Violin/example/soilrep.map.mod.csv
+column	warmed

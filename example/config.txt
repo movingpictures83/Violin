@@ -1,0 +1,2 @@
+Prefix plugins/Violin/example
+Plugin Violin inputfile parameters.txt outputfile violinplot
